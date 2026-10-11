@@ -1,0 +1,18 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.gen/sources_1/ip/xadc_wiz_0_2/xadc_wiz_0.v,1779303514,verilog,,,,xadc_wiz_0,,,F:/vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sim_1/new/tb_Controller.vhd,1779305633,vhdl,,,,tb_controller,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Controller.vhd,1779304597,vhdl,C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sim_1/new/tb_Controller.vhd,,,controller,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Display.vhd,1779303656,vhdl,,,,display,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/DisplayManager.vhd,1779303656,vhdl,,,,displaymanager,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Fan.vhd,1779303524,vhdl,,,,fan,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Led.vhd,1779305138,vhdl,,,,led,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/PWM.vhd,1779303796,vhdl,,,,pwm,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Pump.vhd,1779303524,vhdl,,,,pump,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Sensor_DHT11.vhd,1779303655,vhdl,,,,dht11_reader,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Sensor_Luz.vhd,1779303658,vhdl,,,,sensor_luz,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Sensor_Temp_Hum.vhd,1779303654,vhdl,,,,sensor_temp_hum,,,,,,,,
+C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.srcs/sources_1/new/Top_Entity.vhd,1779305102,vhdl,,,,top_entity,,,,,,,,

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed May 20 21:40:53 2026
+# Process ID         : 20296
+# Current directory  : C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.runs/impl_1
+# Command line       : vivado.exe -log Top_Entity.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Top_Entity.tcl -notrace
+# Log file           : C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.runs/impl_1/Top_Entity.vdi
+# Journal file       : C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.runs/impl_1\vivado.jou
+# Running On         : WINDELL-VV7SKH5
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22621
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16483 MB
+# Swap memory        : 12348 MB
+# Total Virtual      : 28831 MB
+# Available Virtual  : 14678 MB
+#-----------------------------------------------------------
+source Top_Entity.tcl -notrace

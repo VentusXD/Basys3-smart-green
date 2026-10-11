@@ -1,0 +1,2 @@
+xadc_wiz_0.v,verilog,xil_defaultlib,../../../../Proyecto_PFA.gen/sources_1/ip/xadc_wiz_0_2/xadc_wiz_0.v,incdir="../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

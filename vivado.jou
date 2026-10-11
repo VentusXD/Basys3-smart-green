@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed May 20 21:42:18 2026
+# Process ID         : 20048
+# Current directory  : C:/Users/User/Desktop/Proyecto_PFA
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent16592 C:\Users\User\Desktop\Proyecto_PFA\Proyecto_PFA.xpr
+# Log file           : C:/Users/User/Desktop/Proyecto_PFA/vivado.log
+# Journal file       : C:/Users/User/Desktop/Proyecto_PFA\vivado.jou
+# Running On         : WINDELL-VV7SKH5
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22621
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16483 MB
+# Swap memory        : 12348 MB
+# Total Virtual      : 28831 MB
+# Available Virtual  : 16575 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/User/Desktop/Proyecto_PFA/Proyecto_PFA.xpr
+update_compile_order -fileset sources_1
+synth_design -top Top_Entity -part xc7a35ticpg236-1L -lint 
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+close_design
+synth_design -rtl -rtl_skip_mlo -name rtl_1
